@@ -11,7 +11,8 @@ Fluent in Greek and English (C2 level)
 
 # Technologies:
 
-- Python, C
+- Python, C++
+- Java
 - HTML, CSS
 - SQL
 - Git, GitHub
