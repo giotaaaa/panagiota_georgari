@@ -1,8 +1,11 @@
 # Γεια σας! Είμαι η Παναγιώτα Γεωργάρη
 
 Final-year Computer Science student at O.Π.Α (M.O 8.11)
-Passionate about software development and problem-solving  
+
+Passionate about software development and problem-solving 
+
 Fluent in Greek and English (C2 level)
+
 
 ---
 
