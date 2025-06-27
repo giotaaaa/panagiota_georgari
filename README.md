@@ -33,4 +33,5 @@ Fluent in Greek and English (C2 level)
 ---
 **Contact**:  
 pangeorgari@gmail.com
+
 [LinkedIn](https://www.linkedin.com/in/USERNAME)
